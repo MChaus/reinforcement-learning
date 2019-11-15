@@ -94,3 +94,6 @@ ENV/
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+
+### VScode ###
+.vscode/
